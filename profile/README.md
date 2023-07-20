@@ -9,6 +9,7 @@ Here you can find several resources that will enable you to more effectively uti
 
 ### Benchmarking
 - [Realtime Benchmark](https://github.com/AssemblyAI-Solutions/realtime_benchmark)
+- [Audio Intelligence Summarization vs LeMUR Summary](https://aai-summarization-comparisons.streamlit.app)
 
 ### Use Case Examples
 - [Realtime IVR Agent](https://github.com/AssemblyAI-Solutions/LeMUR-Realtime-Phone-Assistant)
