@@ -13,3 +13,7 @@ Here you can find several resources that will enable you to more effectively uti
 
 ### Use Case Examples
 - [Realtime IVR Agent](https://github.com/AssemblyAI-Solutions/LeMUR-Realtime-Phone-Assistant)
+
+### Sandbox Templates
+- [Custom Topics](https://lemur-topics-sandbox.streamlit.app/)
+- [LeMUR + Timestamps](https://colab.research.google.com/drive/1RhiEa0Q1cE53UQE7vWjYG7_j9F4qhpjH?usp=drive_link)
